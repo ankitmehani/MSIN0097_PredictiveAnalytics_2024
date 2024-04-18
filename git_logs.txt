@@ -1,14 +1,28 @@
-23adce33 - ankitmehani, 18 minutes ago : Try to Sync everything
-4a590d13 - ankitmehani, 29 minutes ago : Push epoch 15 and initial approch changes
-2df24bf7 - ankitmehani, 24 hours ago : move updated changes 01 April 2024 - Epochs 9
-d0c7fe59 - ankitmehani, 2 days ago : Move Run 2 Changes 30 March 2024
-c064c15c - ankitmehani, 2 days ago : Move 30 March 2024 Run 1 Changes
-65813b59 - ankitmehani, 2 days ago : move updated changes
-ae84f812 - ankitmehani, 5 days ago : added notebook in backup
-3b967eec - ankitmehani, 5 days ago : Push Run 1 Changes 28 March
-73d16c27 - ankitmehani, 6 days ago : push new changes
-94d6341d - ankitmehani, 6 days ago : save
-9ea7a5cb - ankitmehani, 7 days ago : initial
-28654e87 - ankitmehani, 3 weeks ago : Push initial changes
-83c8cf21 - ankitmehani, 3 weeks ago : commit2
-4daf0f62 - ankitmehani, 3 weeks ago : new file
+95c49f9 - ankitmehani, 2 minutes ago : Push 16 April Run 2 Model
+19e4ad5 - ankitmehani, 8 minutes ago : 16 April Run 2
+9533285 - ankitmehani, 10 minutes ago : 16 April Run 2
+4ae3d4b - ankitmehani, 26 hours ago : Updated Notebook
+021d13f - ankitmehani, 27 hours ago : Updated Notebook
+52454af - ankitmehani, 29 hours ago : Updated Notebook with Epochs 9
+676ede3 - ankitmehani, 30 hours ago : Updated run with epochs 9
+38da806 - ankitmehani, 30 hours ago : Upload epochs 9 changes
+a5d0004 - ankitmehani, 30 hours ago : Run 1 Documents _ Epochs 10
+21ac8f8 - ankitmehani, 30 hours ago : Run2 Documents
+41ede76 - ankitmehani, 30 hours ago : Run 1 Documents
+6a5a178 - ankitmehani, 30 hours ago : 16 April 2024 Changes
+28a5805 - ankitmehani, 3 days ago : Updated Appendix
+b7bcdf1 - ankitmehani, 3 days ago : Updated Appendix
+8d44d6d - ankitmehani, 2 weeks ago : Attach Git Logs
+4a590d1 - ankitmehani, 2 weeks ago : Push epoch 15 and initial approch changes
+2df24bf - ankitmehani, 2 weeks ago : move updated changes 01 April 2024 - Epochs 9
+d0c7fe5 - ankitmehani, 3 weeks ago : Move Run 2 Changes 30 March 2024
+c064c15 - ankitmehani, 3 weeks ago : Move 30 March 2024 Run 1 Changes
+65813b5 - ankitmehani, 3 weeks ago : move updated changes
+ae84f81 - ankitmehani, 3 weeks ago : added notebook in backup
+3b967ee - ankitmehani, 3 weeks ago : Push Run 1 Changes 28 March
+73d16c2 - ankitmehani, 3 weeks ago : push new changes
+94d6341 - ankitmehani, 3 weeks ago : save
+9ea7a5c - ankitmehani, 3 weeks ago : initial
+28654e8 - ankitmehani, 5 weeks ago : Push initial changes
+83c8cf2 - ankitmehani, 5 weeks ago : commit2
+4daf0f6 - ankitmehani, 5 weeks ago : new file
